@@ -1,2 +1,2 @@
-# Control-Features
-Control feature table
+# Prosthesis-Functionality
+Prosthesis Functionality table
